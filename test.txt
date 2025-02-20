@@ -1,1 +1,5 @@
-Conflicting change to o123
+<<<<<<< HEAD
+Your changes from the main branch.
+=======
+Changes from the branch you are merging.
+>>>>>>> 0123
